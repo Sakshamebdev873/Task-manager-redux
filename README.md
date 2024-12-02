@@ -88,7 +88,10 @@ Copy code
     filter: "all", // Filters can be "all", "completed", "pending", "overdue"
   }
 }
+
+
 Future Enhancements
+
 Search Functionality: Allow users to search for tasks by title.
 Drag-and-Drop Support: Enable reordering of tasks.
 Task Priority: Add priority levels to tasks.
